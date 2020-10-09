@@ -1,0 +1,1 @@
+Procesador Intel(R) Core(TM) i3 CPU  M 370  @ 2.40GHz, 2399 Mhz, 2 procesadores principales, 4 procesadores lógicos
