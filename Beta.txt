@@ -1,3 +1,24 @@
 Sergio Dominguez
 ip: 192.168.0.113
 hora: 12:06
+
+Ricardo Ledesma
+enp0s3    Link encap:Ethernet  HWaddr 08:00:27:21:8f:cb  
+          inet addr:10.0.2.15  Bcast:10.0.2.255  Mask:255.255.255.0
+          inet6 addr: fe80::3be4:2978:f4c0:dff/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:98159 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:25577 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000
+          RX bytes:79995150 (79.9 MB)  TX bytes:1573874 (1.5 MB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:228 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:228 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000
+          RX bytes:19549 (19.5 KB)  TX bytes:19549 (19.5 KB)
+
+Hora:12:50
