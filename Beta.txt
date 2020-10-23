@@ -1,5 +1,24 @@
 Sergio Dominguez
-ip: 192.168.0.113
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500                                                  
+        inet 192.168.0.250  netmask 255.255.255.0  broadcast 192.168.0.255                                    
+        inet6 fe80::df67:2b12:cf22:e976  prefixlen 64  scopeid 0x20<link>                                    
+        ether 08:00:27:8f:93:e7  txqueuelen 1000  (Ethernet)                                                  
+        RX packets 823  bytes 797075 (797.0 KB)                                                              
+        RX errors 0  dropped 0  overruns 0  frame 0                                                          
+        TX packets 318  bytes 25290 (25.2 KB)                                                                
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0                                            
+                                                                                                             
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536                                                                  
+        inet 127.0.0.1  netmask 255.0.0.0                                                                    
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>                                                          
+        loop  txqueuelen 1000  (Local Loopback)                                                              
+        RX packets 207  bytes 17706 (17.7 KB)                                                                
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 207  bytes 17706 (17.7 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+
+
 hora: 12:06
 
 Ricardo Ledesma
