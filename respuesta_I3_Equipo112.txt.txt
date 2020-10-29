@@ -1,0 +1,4 @@
+1. El master queda igual al branch de Gamma
+2. Si
+3. git checkout (branch de Beta)
+git merge (branch de Gamma)
