@@ -2,3 +2,10 @@
 2. Si
 3. git checkout (branch de Beta)
 git merge (branch de Gamma)
+
+4.Si,quedan actualizadas.
+5.No usé el merge.Cambié a la rama creada por beta para ver los cambios.
+6.Cambio a la rama creada por beta:
+.git check out beta
+.git add .
+.git push

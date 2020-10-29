@@ -1,1 +1,33 @@
-Procesador Intel(R) Core(TM) i3 CPU  M 370  @ 2.40GHz, 2399 Mhz, 2 procesadores principales, 4 procesadores lógicos
+processor : 0
+vendor_id : GenuineIntel
+cpu family : 6
+model : 37
+model name : Intel(R) Core(TM) i3 CPU       M 370  @ 2.40GHz
+stepping : 5
+microcode : 0x616
+cpu MHz : 2394.140
+cache size : 3072 KB
+physical id : 0
+siblings : 1
+core id : 0
+cpu cores : 1
+apicid : 0
+initial apicid : 0
+fdiv_bug : no
+f00f_bug : no
+coma_bug : no
+fpu : yes
+fpu_exception : yes
+cpuid level : 11
+wp : yes
+flags : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca
+ cmov pat pse36 clflush mmx fxsr sse sse2 nx rdtscp constant_tsc xtopology
+ nonstop_tsc cpuid tsc_known_freq pni monitor ssse3 cx16 sse4_1 sse4_2 x2a
+pic popcnt hypervisor lahf_lm pti
+bugs : cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1t
+f mds swapgs itlb_multihit
+bogomips : 4788.28
+clflush size : 64
+cache_alignment : 64
+address sizes : 36 bits physical, 48 bits virtual
+power management:
